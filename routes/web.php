@@ -10,3 +10,4 @@ include('web/propina.php');
 include('web/contrasena.php');
 include('web/tareas.php');
 include('web/notas.php');
+include('web/gastos.php');
