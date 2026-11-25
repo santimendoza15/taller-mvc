@@ -13,6 +13,7 @@
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="{{ route('tips.index') }}">Propinas</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('contrasena.index') }}">Contraseñas</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('tareas.index') }}">Tareas</a></li>
             </ul>
         </div>
     </nav>
