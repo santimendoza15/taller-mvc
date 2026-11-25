@@ -11,3 +11,4 @@ include('web/contrasena.php');
 include('web/tareas.php');
 include('web/notas.php');
 include('web/gastos.php');
+include('web/cronometro.php');

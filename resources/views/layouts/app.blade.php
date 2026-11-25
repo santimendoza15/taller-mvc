@@ -16,6 +16,7 @@
                 <li class="nav-item"><a class="nav-link" href="{{ route('tareas.index') }}">Tareas</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('notas.index') }}">Notas</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('gastos.index') }}">Gastos</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('cronometro.index') }}">Cronómetro</a></li>
             </ul>
         </div>
     </nav>
