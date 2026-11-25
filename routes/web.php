@@ -7,3 +7,4 @@ Route::get('/', function () {
 });
 
 include('web/propina.php');
+include('web/contrasena.php');
