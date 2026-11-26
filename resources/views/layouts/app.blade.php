@@ -18,6 +18,7 @@
                 <li class="nav-item"><a class="nav-link" href="{{ route('gastos.index') }}">Gastos</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('cronometro.index') }}">Cronómetro</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('eventos.index') }}">Eventos</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('recetas.index') }}">Recetas</a></li>
             </ul>
         </div>
     </nav>
