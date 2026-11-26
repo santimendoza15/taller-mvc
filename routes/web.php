@@ -14,3 +14,4 @@ include('web/gastos.php');
 include('web/cronometro.php');
 include('web/eventos.php');
 include('web/recetas.php');
+include('web/reservas.php');
